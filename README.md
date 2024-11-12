@@ -1,4 +1,4 @@
-### **2. Explanation of `configureStore` in Detail**
+### **Explanation of `configureStore` in Detail**
 
 The `configureStore` function from Redux Toolkit simplifies the process of setting up a Redux store. It is a modern replacement for the legacy `createStore` method and comes with many built-in features and sensible defaults.
 
